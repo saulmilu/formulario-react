@@ -1,3 +1,7 @@
+Projeto para estudo, aplicação de conceitos com react:
+ - organização de projeto (design pattern)
+ - obediência ao Solid
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
